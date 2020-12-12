@@ -51,7 +51,8 @@
                 width: 100%;
                 border: 1px solid #fff;
                 background-repeat: no-repeat;
-                box-shadow: 0 10px 10px 0 rgba(0,0,0,.35);
+                z-index: 999;
+                // box-shadow: 0 10px 10px 0 rgba(0,0,0,.35);
 
                 video{
                     width: 100%;
